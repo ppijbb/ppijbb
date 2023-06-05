@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ppijbb&show_icons=true&theme=github_dark_dimmed) 
-![](https://raw.githubusercontent.com/ppijbb/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/ppijbb/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ppijbb&show_icons=true&theme=buefy)
+
+![overview](https://raw.githubusercontent.com/ppijbb/github-stats/master/generated/overview.svg)
+![languages](https://raw.githubusercontent.com/ppijbb/github-stats/master/generated/languages.svg)
 
