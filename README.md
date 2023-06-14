@@ -80,7 +80,7 @@
   Etc<br>
     <img src="https://img.shields.io/badge/googlecolab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black"> 
     <img src="https://img.shields.io/badge/openai-412991?style=for-the-badge&logo=openai&logoColor=black"> 
-    <img src="https://img.shields.io/badge/gunicorn-499848?style=for-the-badge&logo=gunicorn&logoColor=white">
+<!--     <img src="https://img.shields.io/badge/gunicorn-499848?style=for-the-badge&logo=gunicorn&logoColor=white"> -->
     <img src="https://img.shields.io/badge/webrtc-333333?style=for-the-badge&logo=webrtc&logoColor=white">
   <br>
 </div>
