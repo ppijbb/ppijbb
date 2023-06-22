@@ -11,8 +11,7 @@
 - 🤔 enjoy deeply researching and exploring AI modeling and services..
 - ⚡ am interested in direct service operation through AI.
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ppijbb&show_icons=true&theme=buefy)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ppijbb&show_icons=true&theme=buefy) -->
 
 ![overview](https://raw.githubusercontent.com/ppijbb/github-stats/master/generated/overview.svg)
 ![languages](https://raw.githubusercontent.com/ppijbb/github-stats/master/generated/languages.svg)
