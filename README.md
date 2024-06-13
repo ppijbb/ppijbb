@@ -14,7 +14,9 @@
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ppijbb&show_icons=true&theme=buefy) -->
 
 ![overview](https://raw.githubusercontent.com/ppijbb/github-stats/master/generated/overview.svg)
-![languages](https://raw.githubusercontent.com/ppijbb/github-stats/master/generated/languages.svg)
+<!-- ![languages](https://raw.githubusercontent.com/ppijbb/github-stats/master/generated/languages.svg) -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ppijbb&layout=compact)
+
 
 ### 📚 STACKS
 
