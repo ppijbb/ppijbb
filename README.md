@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&text=JungKwonHwan&animation=scaleIn&height=175&fontColor=FFFFFF&fontAlign=65&fontAlignY=35)
-## ML Engineer 🦾🤖 / NLP Researcher 📠🧠
+## ML Engineer 🦾🤖 / AI Researcher 📠🧠
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/%EA%B6%8C%ED%99%98-%EC%A0%95-ba37b122b/)](https://www.linkedin.com/in/%EA%B6%8C%ED%99%98-%EC%A0%95-ba37b122b/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ppijbb@gmail.com)](mailto:ppijbb@gmail.com)
