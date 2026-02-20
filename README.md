@@ -13,21 +13,6 @@
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ppijbb&show_icons=true&theme=buefy) -->
 
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ppijbb&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-![overview](https://github-readme-stats.vercel.app/api?username=ppijbb&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ppijbb&layout=donut)
-<!-- 
-  ![languages](https://raw.githubusercontent.com/ppijbb/github-stats/master/generated/languages.svg) 
-  ![overview](https://raw.githubusercontent.com/ppijbb/github-stats/master/generated/overview.svg)
--->
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ppijbb&repo=dtw_chroma)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ppijbb&repo=lightning_colossal_llm_trainnig)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
 ### 📚 STACKS
 
 <div style="font-family:'Roboto'; font-size: 16px; font-weight: 400; color: black; font-weight: bold;">
@@ -83,3 +68,7 @@
     <img src="https://img.shields.io/badge/webrtc-333333?style=for-the-badge&logo=webrtc&logoColor=white">
   <br>
 </div>
+
+### Recent Works...
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ppijbb&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ppijbb&theme=dark)](https://git.io/streak-stats)
