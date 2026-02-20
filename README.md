@@ -14,8 +14,7 @@
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ppijbb&show_icons=true&theme=buefy) -->
 
 
-![Metrics](https://github.com/ppijbb/ppijbb/blob/master/github-metrics.svg)
-![Profile Summary](https://raw.githubusercontent.com/ppijbb/ppijbb/main/profile-summary-card-output/default/0-profile-details.svg)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ppijbb&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ![overview](https://github-readme-stats.vercel.app/api?username=ppijbb&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ppijbb&layout=donut)
